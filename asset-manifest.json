@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/welcome/static/css/main.47689c79.chunk.css",
+    "main.js": "/welcome/static/js/main.3f0fcf6c.chunk.js",
+    "main.js.map": "/welcome/static/js/main.3f0fcf6c.chunk.js.map",
+    "runtime-main.js": "/welcome/static/js/runtime-main.3b6f042e.js",
+    "runtime-main.js.map": "/welcome/static/js/runtime-main.3b6f042e.js.map",
+    "static/js/2.d2bf1f59.chunk.js": "/welcome/static/js/2.d2bf1f59.chunk.js",
+    "static/js/2.d2bf1f59.chunk.js.map": "/welcome/static/js/2.d2bf1f59.chunk.js.map",
+    "index.html": "/welcome/index.html",
+    "precache-manifest.d241b0fec498d54910bf63144a1c2e50.js": "/welcome/precache-manifest.d241b0fec498d54910bf63144a1c2e50.js",
+    "service-worker.js": "/welcome/service-worker.js",
+    "static/css/main.47689c79.chunk.css.map": "/welcome/static/css/main.47689c79.chunk.css.map",
+    "static/js/2.d2bf1f59.chunk.js.LICENSE.txt": "/welcome/static/js/2.d2bf1f59.chunk.js.LICENSE.txt",
+    "static/media/earth.svg": "/welcome/static/media/earth.7e3a7ab7.svg",
+    "static/media/d3.module.css": "/welcome/static/media/water.818f1136.svg",
+    "static/media/fire.svg": "/welcome/static/media/fire.0504f0b3.svg",
+    "static/media/innovationStudio-logo-white.svg": "/welcome/static/media/innovationStudio-logo-white.5093a337.svg",
+    "static/media/innovationStudio-logo.svg": "/welcome/static/media/innovationStudio-logo.ef7cd7c6.svg",
+    "static/media/metal.svg": "/welcome/static/media/metal.6dcd2aa3.svg",
+    "static/media/water.svg": "/welcome/static/media/water.01ba79d0.svg",
+    "static/media/wood.svg": "/welcome/static/media/wood.f5667d89.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b6f042e.js",
+    "static/js/2.d2bf1f59.chunk.js",
+    "static/css/main.47689c79.chunk.css",
+    "static/js/main.3f0fcf6c.chunk.js"
+  ]
+}
