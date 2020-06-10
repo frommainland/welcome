@@ -1,15 +1,17 @@
 
+@font-face {
+  font-family: "Futura";
+  src: url("../font/FuturaXBlkBT.ttf") format("ttf"),
+}
 
 .topWrap {
   width: 100%;
-  height: 90px;
+  height: 120px;
   background: black;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
-
 
 .topWrap .logo {
   display: block;
@@ -20,9 +22,12 @@
 
 .topWrap .fiveElements {
   margin-right: 50px;
-  width: 325px;
+  width: 400px;
   display: flex;
   justify-content: space-between;
+}
+.topWrap .fiveElements img{
+  width: 48px;
 }
 
 .topWrap h1{
@@ -35,52 +40,48 @@
 }
 
 .marquee {
-  height: 160px;
+  height: 180px;
   background: #E8E5E4;
   white-space: nowrap;
 }
 
-.marquee .short {
-  height:84px ;
-  padding-top: 10px;
+.marquee .bot {
   overflow: hidden;
 }
 
-.marquee .short h1 {
+.marquee .bot h1 {
   display: inline-block;
-  font-size: 60px;
-  font-weight: 900;
-  vertical-align:middle;
-  line-height: 84px;
-  animation: marquee 30s linear infinite;
+  font-size: 33px;
+  font-weight: 400;
+  /* vertical-align:middle; */
+  animation: marquee 15s linear infinite;
 }
 
-.marquee .short span {
-  font-size: 30px;
-  line-height: 84px;
+.marquee .bot span {
+  font-size: 24px;
+  line-height: 30px;
   position: relative;
-  top: -12px;
+  top: -6px;
   margin-left: 20px;
   margin-right: 20px;
 
 }
 
 
-.marquee .long {
-  height:43px ;
-  padding-top: 10px;
+.marquee .top {
+  padding-top: 40px;
   overflow: hidden;
   padding-bottom: 16px;
 }
 
-.marquee .long h3 {
+.marquee .top h3 {
   display: inline-block;
-  font-size: 36px;
+  text-transform: uppercase;
   font-weight: 900;
-  font-family: 'SF Mono';
+  font-size: 60px;
+  font-family: "Futura";
   vertical-align: middle;
-  line-height: 43px;
-  animation: marquee 20s linear infinite;
+  animation: marquee 90s linear infinite;
 }
 
 

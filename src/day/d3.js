@@ -18,13 +18,13 @@ export default function D3() {
                 </div>
             </div>
             <div className={styles.marquee}>
-                <div className={styles.short}>
-                    <h1>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span></h1>
-                    <h1>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span></h1>
+                <div className={styles.top}>
+                    <h3>&emsp;VISA INNOVATION STUDIO BEIJING. INNOVATE WITH VISA. Discover, design and develop the future of commerce and payments together.&emsp;</h3>
+                    <h3>&emsp;VISA INNOVATION STUDIO BEIJING. INNOVATE WITH VISA. Discover, design and develop the future of commerce and payments together.&emsp;</h3>
                 </div>
-                <div className={styles.long}>
-                    <h3>&emsp;VISA INNOVATION STUDIO BEIJING. INNOVATE WITH VISA. Discover, design and develop the future of commerce and payments together.&emsp;</h3>
-                    <h3>&emsp;VISA INNOVATION STUDIO BEIJING. INNOVATE WITH VISA. Discover, design and develop the future of commerce and payments together.&emsp;</h3>
+                <div className={styles.bot}>
+                    <h1>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span></h1>
+                    <h1>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span>&emsp;欢迎各位同事莅临参观&emsp;<span>⁕</span></h1>
                 </div>
             </div>
             <ul className={styles.botWrap}>
